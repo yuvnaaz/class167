@@ -1,1 +1,1 @@
-# class167
+# PRO-C167-Boilerplate
